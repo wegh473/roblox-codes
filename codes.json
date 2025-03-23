@@ -1,0 +1,12 @@
+{
+  "NEWCODE123": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": 500
+  },
+  "NEWBOOTH123": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "BoothType2"
+  }
+}
