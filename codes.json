@@ -1,12 +1,12 @@
 {
-  "NEWCODE123": {
+  "NEW": {
     "Active": true,
     "RewardType": "Robux",
-    "RewardValue": 500
+    "RewardValue": 1000000
   },
-  "NEWBOOTH123": {
+  "Z1AKPDV": {
     "Active": true,
-    "RewardType": "Booth",
-    "RewardValue": "BoothType2"
+    "RewardType": "Robux",
+    "RewardValue": "10000"
   }
 }
